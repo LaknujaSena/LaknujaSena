@@ -48,5 +48,5 @@ Developed various autonomous systems, including a high-precision line-following 
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/laknuja-senaratne-b831b8283/)
 - 📧 **Email:** [your.email@email.com]
